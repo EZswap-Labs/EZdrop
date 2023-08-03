@@ -1,0 +1,5 @@
+ERC721A/=lib/ERC721A/contracts/
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+solmate/=lib/solmate/src/
+operator-filter-registry/=lib/operator-filter-registry/src/
+openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
